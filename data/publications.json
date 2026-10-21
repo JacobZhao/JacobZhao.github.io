@@ -1,0 +1,730 @@
+[
+  {
+    "authors": "F Catthoor, D Zhao, I Taniguchi, PS Georgilakis, D Soudris, K Siozios, et al.",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&cstart=20&pagesize=80&citation_for_view=62711IsAAAAJ:bEWYMUwI8FkC",
+    "title": "Correction to: Energy Production, Load and Battery Management Framework with Supporting Methods for Smart Microgrids",
+    "venue": "Energy Production, Load and Battery Management Framework with Supporting Methods for Smart Microgrids, Springer Nature",
+    "year": 2026,
+    "id": "bEWYMUwI8FkC",
+    "selected": false,
+    "sources": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&cstart=20&pagesize=80&citation_for_view=62711IsAAAAJ:bEWYMUwI8FkC"
+    ],
+    "type": "book",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&cstart=20&pagesize=80&citation_for_view=62711IsAAAAJ:bEWYMUwI8FkC"
+  },
+  {
+    "authors": "Seiryo Satomi, Dafang Zhao, Hiroki Nishikawa, Ittetsu Taniguchi, Takao Onoye",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&cstart=20&pagesize=80&citation_for_view=62711IsAAAAJ:isC4tDSrTZIC",
+    "title": "Degradation-Aware Multi-Timescale Energy Management System for Residential PV-Battery Systems",
+    "venue": "ACM Sustainability Week Companion 2026, 534-536",
+    "year": 2026,
+    "id": "isC4tDSrTZIC",
+    "selected": false,
+    "sources": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&cstart=20&pagesize=80&citation_for_view=62711IsAAAAJ:isC4tDSrTZIC",
+      "https://www-ise2.ist.osaka-u.ac.jp/publication/"
+    ],
+    "url": "https://doi.org/10.1145/3765611.3815372",
+    "type": "conference"
+  },
+  {
+    "authors": "Saki Yoshida, Dafang Zhao, Hiroki Nishikawa, Ittetsu Taniguchi, Takao Onoye",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&cstart=20&pagesize=80&citation_for_view=62711IsAAAAJ:k_IJM867U9cC",
+    "title": "MILP-Based Integrated Control of Residential DERs Aggregation",
+    "venue": "ACM Sustainability Week Companion 2026, 597-599",
+    "year": 2026,
+    "id": "k_IJM867U9cC",
+    "selected": false,
+    "sources": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&cstart=20&pagesize=80&citation_for_view=62711IsAAAAJ:k_IJM867U9cC",
+      "https://www-ise2.ist.osaka-u.ac.jp/publication/"
+    ],
+    "url": "https://doi.org/10.1145/3765611.3815352",
+    "type": "conference"
+  },
+  {
+    "authors": "Shuhei Mitsunaga, Dafang Zhao, Hiroki Nishikawa, Ittetsu Taniguchi, Takao Onoye",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&cstart=20&pagesize=80&citation_for_view=62711IsAAAAJ:TFP_iSt0sucC",
+    "title": "Physics-Informed Surrogate Modeling for Degradation-Aware Battery Scheduling in Residential PV Systems",
+    "venue": "ACM Sustainability Week Companion 2026, 602-604",
+    "year": 2026,
+    "id": "TFP_iSt0sucC",
+    "selected": true,
+    "sources": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&cstart=20&pagesize=80&citation_for_view=62711IsAAAAJ:TFP_iSt0sucC",
+      "https://www-ise2.ist.osaka-u.ac.jp/publication/"
+    ],
+    "url": "https://doi.org/10.1145/3765611.3815356",
+    "type": "conference"
+  },
+  {
+    "authors": "Q Li, C Hu, J Yan, J Gao, H Li, Y Liu, X Yang, D Zhao",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&cstart=20&pagesize=80&citation_for_view=62711IsAAAAJ:maZDTaKrznsC",
+    "title": "Rethinking Machine Learning Performance Metrics in Distributed Energy Resource Systems: A Concise Review",
+    "venue": "Proceedings of the 2026 ACM Sustainability Week, 162-171",
+    "year": 2026,
+    "id": "maZDTaKrznsC",
+    "selected": false,
+    "sources": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&cstart=20&pagesize=80&citation_for_view=62711IsAAAAJ:maZDTaKrznsC"
+    ],
+    "type": "conference",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&cstart=20&pagesize=80&citation_for_view=62711IsAAAAJ:maZDTaKrznsC"
+  },
+  {
+    "authors": "Ren Sasaki, Dafang Zhao, Yang Deng, Hiroki Nishikawa, Ittetsu Taniguchi, Takao Onoye",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&cstart=20&pagesize=80&citation_for_view=62711IsAAAAJ:hMod-77fHWUC",
+    "title": "Scalable HVAC Flexibility Aggregation with DRL and Linear Programming",
+    "venue": "Energy and Buildings 371, 118199",
+    "year": 2026,
+    "id": "hMod-77fHWUC",
+    "selected": true,
+    "sources": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&cstart=20&pagesize=80&citation_for_view=62711IsAAAAJ:hMod-77fHWUC",
+      "https://www-ise2.ist.osaka-u.ac.jp/publication/"
+    ],
+    "url": "https://doi.org/10.1016/j.enbuild.2026.118199",
+    "type": "journal"
+  },
+  {
+    "authors": "Rui Liang, Yang Deng, Yaohui Liu, Dafang Zhao, Ozan Baris Mulayim, Ittetsu Taniguchi, Dan Wang",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&citation_for_view=62711IsAAAAJ:iH-uZ7U-co4C",
+    "title": "ThermoStill: Distilling Time Series Foundation Model into Thermal Dynamics Model for HVAC Model Predictive Control",
+    "venue": "ACM e-Energy 2026",
+    "year": 2026,
+    "id": "iH-uZ7U-co4C",
+    "selected": true,
+    "sources": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&citation_for_view=62711IsAAAAJ:iH-uZ7U-co4C",
+      "https://www-ise2.ist.osaka-u.ac.jp/publication/"
+    ],
+    "url": "https://doi.org/10.1145/3744255.3811745",
+    "type": "conference"
+  },
+  {
+    "authors": "D Zhao, Y Deng, Z Li",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&cstart=20&pagesize=80&citation_for_view=62711IsAAAAJ:JV2RwH3_ST0C",
+    "title": "Physically Constrained Agentic AI for Energy Scheduling",
+    "venue": "arXiv:2608.09029",
+    "year": 2026,
+    "id": "JV2RwH3_ST0C",
+    "selected": false,
+    "sources": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&cstart=20&pagesize=80&citation_for_view=62711IsAAAAJ:JV2RwH3_ST0C"
+    ],
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2608.09029"
+  },
+  {
+    "authors": "J Feng, D Zhao, Z Chen, Z Li, L Zhu",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&cstart=20&pagesize=80&citation_for_view=62711IsAAAAJ:NMxIlDl6LWMC",
+    "title": "RL-PaO: Prediction as Action in Decision Making under Uncertainty",
+    "venue": "arXiv:2609.37065",
+    "year": 2026,
+    "id": "NMxIlDl6LWMC",
+    "selected": false,
+    "sources": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&cstart=20&pagesize=80&citation_for_view=62711IsAAAAJ:NMxIlDl6LWMC"
+    ],
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2609.37065"
+  },
+  {
+    "authors": "Ren Sasaki, Dafang Zhao, Hiroki Nishikawa, Ittetsu Taniguchi, Takao Onoye",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&cstart=20&pagesize=80&citation_for_view=62711IsAAAAJ:-f6ydRqryjwC",
+    "title": "A Deep Reinforcement Learning-and Linear Programming-based Hierarchical Aggregation Framework for Demand-side Flexibility",
+    "venue": "ACM e-Energy 2025",
+    "year": 2025,
+    "id": "-f6ydRqryjwC",
+    "selected": false,
+    "sources": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&cstart=20&pagesize=80&citation_for_view=62711IsAAAAJ:-f6ydRqryjwC",
+      "https://www-ise2.ist.osaka-u.ac.jp/publication/"
+    ],
+    "url": "https://doi.org/10.1145/3679240.3734672",
+    "type": "conference"
+  },
+  {
+    "authors": "K Okazawa, H Nishikawa, D Zhao, I Taniguchi, T Onoye, MM da Silva, et al.",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&cstart=20&pagesize=80&citation_for_view=62711IsAAAAJ:blknAaTinKkC",
+    "title": "A Scalable Two-Step Approach to Optimize Data and Energy Migrations in Mini Data Centers for Carbon-Neutral Computing",
+    "venue": "DAC 2025-Design Automation Conference",
+    "year": 2025,
+    "id": "blknAaTinKkC",
+    "selected": false,
+    "sources": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&cstart=20&pagesize=80&citation_for_view=62711IsAAAAJ:blknAaTinKkC"
+    ],
+    "type": "conference",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&cstart=20&pagesize=80&citation_for_view=62711IsAAAAJ:blknAaTinKkC"
+  },
+  {
+    "authors": "Kazuki Okazawa, Hiroki Nishikawa, Dafang Zhao, Ittetsu Taniguchi, Takao Onoye, Marcos De Melo da Silva, Gamatié Abdoulaye",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&cstart=20&pagesize=80&citation_for_view=62711IsAAAAJ:r0BpntZqJG4C",
+    "title": "Carbon-Neutral Computing at the Edge: Scalable Greedy—LP Optimization of Green Data Centers",
+    "venue": "IEEE International Symposium on Embedded Multicore/Many-core Systems-on-Chip (MCSoC), 2025",
+    "year": 2025,
+    "id": "r0BpntZqJG4C",
+    "selected": false,
+    "sources": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&cstart=20&pagesize=80&citation_for_view=62711IsAAAAJ:r0BpntZqJG4C",
+      "https://www-ise2.ist.osaka-u.ac.jp/publication/"
+    ],
+    "url": "https://doi.org/10.1109/MCSoC67473.2025.00110",
+    "type": "conference"
+  },
+  {
+    "authors": "Y Deng, R Liang, J Fan, Y Liu, X Zhang, F He, A Li, D Wang, D Zhao",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&cstart=20&pagesize=80&citation_for_view=62711IsAAAAJ:qUcmZB5y_30C",
+    "title": "Concept Drift-aware Time-series Generation for Online Building Load Forecasting: An Automated Data Augmentation Paradigm",
+    "venue": "ACM Transactions on Sensor Networks",
+    "year": 2025,
+    "id": "qUcmZB5y_30C",
+    "selected": false,
+    "sources": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&cstart=20&pagesize=80&citation_for_view=62711IsAAAAJ:qUcmZB5y_30C"
+    ],
+    "type": "journal",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&cstart=20&pagesize=80&citation_for_view=62711IsAAAAJ:qUcmZB5y_30C"
+  },
+  {
+    "authors": "F Catthoor, I Taniguchi, PS Georgilakis, D Zhao, D Soudris, K Siozios, et al.",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&cstart=20&pagesize=80&citation_for_view=62711IsAAAAJ:RHpTSmoSYBkC",
+    "title": "Energy Production, Load and Battery Management Framework with Supporting Methods for Smart Microgrids",
+    "venue": "Springer Nature",
+    "year": 2025,
+    "id": "RHpTSmoSYBkC",
+    "selected": false,
+    "sources": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&cstart=20&pagesize=80&citation_for_view=62711IsAAAAJ:RHpTSmoSYBkC"
+    ],
+    "type": "book",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&cstart=20&pagesize=80&citation_for_view=62711IsAAAAJ:RHpTSmoSYBkC"
+  },
+  {
+    "authors": "Koki Iwabuchi, Daichi Watari, Dafang Zhao, Ittetsu Taniguchi, Francky Catthoor, Takao Onoye",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&citation_for_view=62711IsAAAAJ:dhFuZR0502QC",
+    "title": "Enhancing grid stability in PV systems: A novel ramp rate control method utilizing PV cooling technology",
+    "venue": "Applied Energy 378, 124737",
+    "year": 2025,
+    "id": "dhFuZR0502QC",
+    "selected": true,
+    "sources": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&citation_for_view=62711IsAAAAJ:dhFuZR0502QC",
+      "https://www-ise2.ist.osaka-u.ac.jp/publication/"
+    ],
+    "url": "https://doi.org/10.1016/j.apenergy.2024.124737",
+    "type": "journal"
+  },
+  {
+    "authors": "Dafang Zhao, Yang Deng, Toshihiro Suzuki, Ittetsu Taniguchi, Takao Onoye",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&cstart=20&pagesize=80&citation_for_view=62711IsAAAAJ:j3f4tGmQtD8C",
+    "title": "HVAC Aggregation for Multi-priority Demand Flexibility: Lessons learn on On-site Experiments",
+    "venue": "ACM BuildSys 2025",
+    "year": 2025,
+    "id": "j3f4tGmQtD8C",
+    "selected": true,
+    "sources": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&cstart=20&pagesize=80&citation_for_view=62711IsAAAAJ:j3f4tGmQtD8C",
+      "https://www-ise2.ist.osaka-u.ac.jp/publication/"
+    ],
+    "url": "https://doi.org/10.1145/3736425.3770099",
+    "type": "conference"
+  },
+  {
+    "authors": "F Catthoor, I Taniguchi, D Zhao, K Siozios, PS Georgilakis, A Kazantzidis",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&cstart=20&pagesize=80&citation_for_view=62711IsAAAAJ:HDshCWvjkbEC",
+    "title": "Motivation, Focus, and Contributions of This Book",
+    "venue": "Energy Production, Load and Battery Management Framework with Supporting Methods for Smart Microgrids, Springer Nature",
+    "year": 2025,
+    "id": "HDshCWvjkbEC",
+    "selected": false,
+    "sources": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&cstart=20&pagesize=80&citation_for_view=62711IsAAAAJ:HDshCWvjkbEC"
+    ],
+    "type": "book",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&cstart=20&pagesize=80&citation_for_view=62711IsAAAAJ:HDshCWvjkbEC"
+  },
+  {
+    "authors": "Shuhei Mitsunaga, Dafang Zhao, Hiroki Nishikawa, Ittetsu Taniguchi, Takao Onoye",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&cstart=20&pagesize=80&citation_for_view=62711IsAAAAJ:hFOr9nPyWt4C",
+    "title": "Multi-Time Scale Energy Management for Efficient Residential Energy Use with Electric Water Heaters",
+    "venue": "ACM e-Energy 2025",
+    "year": 2025,
+    "id": "hFOr9nPyWt4C",
+    "selected": false,
+    "sources": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&cstart=20&pagesize=80&citation_for_view=62711IsAAAAJ:hFOr9nPyWt4C",
+      "https://www-ise2.ist.osaka-u.ac.jp/publication/"
+    ],
+    "url": "https://doi.org/10.1145/3679240.3734673",
+    "type": "conference"
+  },
+  {
+    "authors": "D Watari, D Zhao, I Taniguchi, F Catthoor",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&cstart=20&pagesize=80&citation_for_view=62711IsAAAAJ:mB3voiENLucC",
+    "title": "Multi-Timescale Energy Management Framework",
+    "venue": "Energy Production, Load and Battery Management Framework with Supporting Methods for Smart Microgrids, Springer Nature",
+    "year": 2025,
+    "id": "mB3voiENLucC",
+    "selected": false,
+    "sources": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&cstart=20&pagesize=80&citation_for_view=62711IsAAAAJ:mB3voiENLucC"
+    ],
+    "type": "book",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&cstart=20&pagesize=80&citation_for_view=62711IsAAAAJ:mB3voiENLucC"
+  },
+  {
+    "authors": "Theint Theint Thu, Kenshiro Kato, Dafang Zhao, Hiroki Nishikawa, Ittetsu Taniguchi, Takao Onoye",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&citation_for_view=62711IsAAAAJ:M3NEmzRMIkIC",
+    "title": "Power-constrained VRF system optimization using symbolic regression for multiple zones environment",
+    "venue": "Energy and Buildings 347, 116264",
+    "year": 2025,
+    "id": "M3NEmzRMIkIC",
+    "selected": true,
+    "sources": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&citation_for_view=62711IsAAAAJ:M3NEmzRMIkIC",
+      "https://www-ise2.ist.osaka-u.ac.jp/publication/"
+    ],
+    "url": "https://doi.org/10.1016/j.enbuild.2025.116264",
+    "type": "journal"
+  },
+  {
+    "authors": "Koki Iwabuchi, Dafang Zhao, Ittetsu Taniguchi, Francky Catthoor, Takao Onoye",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&citation_for_view=62711IsAAAAJ:hC7cP41nSMkC",
+    "title": "Ramp Rate Control for PV Systems Using Solar Irradiance Forecasting with Wavelet Transform and LSTM",
+    "venue": "ACM e-Energy 2025",
+    "year": 2025,
+    "id": "hC7cP41nSMkC",
+    "selected": false,
+    "sources": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&citation_for_view=62711IsAAAAJ:hC7cP41nSMkC",
+      "https://www-ise2.ist.osaka-u.ac.jp/publication/"
+    ],
+    "url": "https://doi.org/10.1145/3679240.3734679",
+    "type": "conference"
+  },
+  {
+    "authors": "Y Deng, Y Liu, R Liang, D Zhao, D Xie, I Taniguchi, D Wang",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&cstart=20&pagesize=80&citation_for_view=62711IsAAAAJ:IWHjjKOFINEC",
+    "title": "ReeM: Ensemble Building Thermodynamics Model for Efficient HVAC Control via Hierarchical Reinforcement Learning",
+    "venue": "arXiv:2505.02439",
+    "year": 2025,
+    "id": "IWHjjKOFINEC",
+    "selected": false,
+    "sources": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&cstart=20&pagesize=80&citation_for_view=62711IsAAAAJ:IWHjjKOFINEC"
+    ],
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2505.02439"
+  },
+  {
+    "authors": "H Malfait, D Zhao, H Nishikawa, I Taniguchi, T Suzuki, T Onoye",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&cstart=20&pagesize=80&citation_for_view=62711IsAAAAJ:9ZlFYXVOiuMC",
+    "title": "Comfort-Aware HVAC Aggregation for Enhancing Demand-Side Flexibility: Insights from an On-Site Experiment",
+    "venue": "ACM BuildSys 2024",
+    "year": 2024,
+    "id": "9ZlFYXVOiuMC",
+    "selected": false,
+    "sources": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&cstart=20&pagesize=80&citation_for_view=62711IsAAAAJ:9ZlFYXVOiuMC"
+    ],
+    "type": "conference",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&cstart=20&pagesize=80&citation_for_view=62711IsAAAAJ:9ZlFYXVOiuMC"
+  },
+  {
+    "authors": "Kazuki Okazawa, Naoya Kaneko, Dafang Zhao, Hiroki Nishikawa, Ittetsu Taniguchi, Francky Catthoor, Takao Onoye",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&citation_for_view=62711IsAAAAJ:Zph67rFs4hoC",
+    "title": "Evaluation of deep learning-based non-intrusive thermal load monitoring",
+    "venue": "Energies 17 (9), 2012",
+    "year": 2024,
+    "id": "Zph67rFs4hoC",
+    "selected": false,
+    "sources": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&citation_for_view=62711IsAAAAJ:Zph67rFs4hoC",
+      "https://www-ise2.ist.osaka-u.ac.jp/publication/"
+    ],
+    "type": "journal",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&citation_for_view=62711IsAAAAJ:Zph67rFs4hoC"
+  },
+  {
+    "authors": "Shuhei Mitsunaga, Dafang Zhao, Hiroki Nishikawa, Ittetsu Taniguchi, Takao Onoye",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&cstart=20&pagesize=80&citation_for_view=62711IsAAAAJ:_kc_bZDykSQC",
+    "title": "Extending Multi-time Scale Energy Management System to Support Wind Power Generation",
+    "venue": "ACM e-Energy 2024",
+    "year": 2024,
+    "id": "_kc_bZDykSQC",
+    "selected": false,
+    "sources": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&cstart=20&pagesize=80&citation_for_view=62711IsAAAAJ:_kc_bZDykSQC",
+      "https://www-ise2.ist.osaka-u.ac.jp/publication/"
+    ],
+    "url": "https://doi.org/10.1145/3632775.3661978",
+    "type": "conference"
+  },
+  {
+    "authors": "Dafang Zhao, Zheng Chen, Zhengmao Li, Xiaolei Yuan, Ittetsu Taniguchi",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&citation_for_view=62711IsAAAAJ:8k81kl-MbHgC",
+    "title": "Improving Building Temperature Forecasting: A Data-driven Approach with System Scenario Clustering",
+    "venue": "2024 IEEE Power & Energy Society General Meeting (PESGM)",
+    "year": 2024,
+    "id": "8k81kl-MbHgC",
+    "selected": true,
+    "sources": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&citation_for_view=62711IsAAAAJ:8k81kl-MbHgC",
+      "https://www-ise2.ist.osaka-u.ac.jp/publication/"
+    ],
+    "type": "conference",
+    "preprint": "https://arxiv.org/abs/2402.13628",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&citation_for_view=62711IsAAAAJ:8k81kl-MbHgC"
+  },
+  {
+    "authors": "H Fang, H Tan, X Yuan, X Lin, D Zhao, R Kosonen",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&citation_for_view=62711IsAAAAJ:4DMP91E08xMC",
+    "title": "Improving the accuracy and interpretability of multi-scenario building energy consumption prediction considering characteristics of training dataset",
+    "venue": "Energy and Buildings 324, 114912",
+    "year": 2024,
+    "id": "4DMP91E08xMC",
+    "selected": false,
+    "sources": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&citation_for_view=62711IsAAAAJ:4DMP91E08xMC"
+    ],
+    "type": "journal",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&citation_for_view=62711IsAAAAJ:4DMP91E08xMC"
+  },
+  {
+    "authors": "Ren Sasaki, Kenshiro Kato, Dafang Zhao, Hiroki Nishikawa, Ittetsu Taniguchi, Takao Onoye",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&cstart=20&pagesize=80&citation_for_view=62711IsAAAAJ:Wp0gIr-vW9MC",
+    "title": "Indoor Temperature Prediction for HVAC Energy Management using Smart Remote Controller",
+    "venue": "ACM BuildSys 2024",
+    "year": 2024,
+    "id": "Wp0gIr-vW9MC",
+    "selected": false,
+    "sources": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&cstart=20&pagesize=80&citation_for_view=62711IsAAAAJ:Wp0gIr-vW9MC",
+      "https://www-ise2.ist.osaka-u.ac.jp/publication/"
+    ],
+    "url": "https://doi.org/10.1145/3671127.3698702",
+    "type": "conference"
+  },
+  {
+    "authors": "Shuhei Mitsunaga, Dafang Zhao, Hiroki Nishikawa, Ittesu Taniguchi, Takao Onoye",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&cstart=20&pagesize=80&citation_for_view=62711IsAAAAJ:QIV2ME_5wuYC",
+    "title": "Model Predictive Control based Scheduling for an Electric Heat Pump Water Heating System via Photovoltaics",
+    "venue": "ACM BuildSys 2024",
+    "year": 2024,
+    "id": "QIV2ME_5wuYC",
+    "selected": false,
+    "sources": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&cstart=20&pagesize=80&citation_for_view=62711IsAAAAJ:QIV2ME_5wuYC",
+      "https://www-ise2.ist.osaka-u.ac.jp/publication/"
+    ],
+    "url": "https://doi.org/10.1145/3671127.3698701",
+    "type": "conference"
+  },
+  {
+    "authors": "Naoya Kaneko, Kazuki Okazawa, Dafang Zhao, Hiroki Nishikawa, Ittetsu Taniguchi, Hiroyuki Murayama, Yoshinori Yura, Masakazu Okamoto, Francky Catthoor, Takao Onoye",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&citation_for_view=62711IsAAAAJ:ULOm3_A8WrAC",
+    "title": "Non-intrusive thermal load disaggregation and forecasting for effective HVAC systems",
+    "venue": "Applied Energy 367, 123379",
+    "year": 2024,
+    "id": "ULOm3_A8WrAC",
+    "selected": true,
+    "sources": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&citation_for_view=62711IsAAAAJ:ULOm3_A8WrAC",
+      "https://www-ise2.ist.osaka-u.ac.jp/publication/"
+    ],
+    "type": "journal",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&citation_for_view=62711IsAAAAJ:ULOm3_A8WrAC"
+  },
+  {
+    "authors": "Theint Thu Theint, Harrison Malfait, Kenshiro Kato, Dafang Zhao, Hiroki Nishikawa, Ittetsu Taniguchi, Takao Onoye",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&cstart=20&pagesize=80&citation_for_view=62711IsAAAAJ:M3ejUd6NZC8C",
+    "title": "Optimizing VRF System Operation for Energy Efficiency under Power Constraints: On-Site Experiment",
+    "venue": "ACM e-Energy 2024",
+    "year": 2024,
+    "id": "M3ejUd6NZC8C",
+    "selected": false,
+    "sources": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&cstart=20&pagesize=80&citation_for_view=62711IsAAAAJ:M3ejUd6NZC8C",
+      "https://www-ise2.ist.osaka-u.ac.jp/publication/"
+    ],
+    "url": "https://doi.org/10.1145/3632775.3661977",
+    "type": "conference"
+  },
+  {
+    "authors": "Ren Sasaki, Shotaro Nonaka, Dafang Zhao, Hiroki Nishikawa, Ittetsu Taniguchi, Takao Onoye",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&citation_for_view=62711IsAAAAJ:YOwf2qJgpHMC",
+    "title": "Thermal comfort-aware aggregation via multi-hvac systems for demand-side flexibility",
+    "venue": "ACM e-Energy 2024",
+    "year": 2024,
+    "id": "YOwf2qJgpHMC",
+    "selected": false,
+    "sources": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&citation_for_view=62711IsAAAAJ:YOwf2qJgpHMC",
+      "https://www-ise2.ist.osaka-u.ac.jp/publication/"
+    ],
+    "url": "https://doi.org/10.1145/3632775.3661975",
+    "type": "conference"
+  },
+  {
+    "authors": "D Zhao, X Piao, Z Chen, Z Li, I Taniguchi",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&citation_for_view=62711IsAAAAJ:7PzlFSSx8tAC",
+    "title": "A unified energy management framework for multi-timescale forecasting in smart grids",
+    "venue": "arXiv:2411.15254",
+    "year": 2024,
+    "id": "7PzlFSSx8tAC",
+    "selected": false,
+    "sources": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&citation_for_view=62711IsAAAAJ:7PzlFSSx8tAC"
+    ],
+    "type": "preprint",
+    "url": "https://arxiv.org/abs/2411.15254"
+  },
+  {
+    "authors": "Shotaro Nonaka, Ittetsu Taniguchi, Hiroki Nishikawa, Dafang Zhao, Francky Catthoor, Takao Onoye",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&citation_for_view=62711IsAAAAJ:5nxA0vEk-isC",
+    "title": "Comfort-aware hvac aggregation method based on deep reinforcement learning",
+    "venue": "ACM BuildSys 2023",
+    "year": 2023,
+    "id": "5nxA0vEk-isC",
+    "selected": false,
+    "sources": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&citation_for_view=62711IsAAAAJ:5nxA0vEk-isC",
+      "https://www-ise2.ist.osaka-u.ac.jp/publication/"
+    ],
+    "url": "https://doi.org/10.1145/3600100.3626265",
+    "type": "conference"
+  },
+  {
+    "authors": "Yuki Ozawa, Dafang Zhao, Daichi Watari, Ittetsu Taniguchi, Toshihiro Suzuki, Yoshiyuki Shimoda, Takao Onoye",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&citation_for_view=62711IsAAAAJ:LkGwnXOMwfcC",
+    "title": "Data-driven HVAC Control Using Symbolic Regression: Design and Implementation",
+    "venue": "2023 IEEE Power & Energy Society General Meeting (PESGM), 1-5",
+    "year": 2023,
+    "id": "LkGwnXOMwfcC",
+    "selected": false,
+    "sources": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&citation_for_view=62711IsAAAAJ:LkGwnXOMwfcC",
+      "https://www-ise2.ist.osaka-u.ac.jp/publication/"
+    ],
+    "url": "https://doi.org/10.1109/PESGM52003.2023.10253270",
+    "type": "conference",
+    "preprint": "https://arxiv.org/abs/2304.03078"
+  },
+  {
+    "authors": "Dafang Zhao, Daichi Watari, Yuki Ozawa, Ittetsu Taniguchi, Toshihiro Suzuki, Yoshiyuki Shimoda, Takao Onoye",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&citation_for_view=62711IsAAAAJ:hqOjcs7Dif8C",
+    "title": "Data-driven online energy management framework for HVAC systems: An experimental study",
+    "venue": "Applied Energy 352, 121921",
+    "year": 2023,
+    "id": "hqOjcs7Dif8C",
+    "selected": true,
+    "sources": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&citation_for_view=62711IsAAAAJ:hqOjcs7Dif8C",
+      "https://www-ise2.ist.osaka-u.ac.jp/publication/"
+    ],
+    "url": "https://doi.org/10.1016/j.apenergy.2023.121921",
+    "type": "journal"
+  },
+  {
+    "authors": "Kenshiro Kato, Koki Iwabuchi, Daichi Watari, Dafang Zhao, Hiroki Nishikawa, Ittetsu Taniguchi, Takao Onoye",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&cstart=20&pagesize=80&citation_for_view=62711IsAAAAJ:Se3iqnhoufwC",
+    "title": "Exploring Models of Electricity Price Forecasting: Case Study on A FCAS Market",
+    "venue": "ACM e-Energy 2023 Companion",
+    "year": 2023,
+    "id": "Se3iqnhoufwC",
+    "selected": false,
+    "sources": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&cstart=20&pagesize=80&citation_for_view=62711IsAAAAJ:Se3iqnhoufwC",
+      "https://www-ise2.ist.osaka-u.ac.jp/publication/"
+    ],
+    "url": "https://doi.org/10.1145/3599733.3600258",
+    "type": "conference"
+  },
+  {
+    "authors": "Kazuki Okazawa, Naoya Kaneko, Dafang Zhao, Hiroki Nishikawa, Ittetsu Taniguchi, Takao Onoye",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&citation_for_view=62711IsAAAAJ:UebtZRa9Y70C",
+    "title": "Exploring of recursive model-based non-intrusive thermal load monitoring for building cooling load",
+    "venue": "ACM e-Energy 2023 Companion",
+    "year": 2023,
+    "id": "UebtZRa9Y70C",
+    "selected": false,
+    "sources": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&citation_for_view=62711IsAAAAJ:UebtZRa9Y70C",
+      "https://www-ise2.ist.osaka-u.ac.jp/publication/"
+    ],
+    "url": "https://doi.org/10.1145/3599733.3600259",
+    "type": "conference"
+  },
+  {
+    "authors": "T Urakami, H Jia, D Zhao, N Chen, M Okada",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&cstart=20&pagesize=80&citation_for_view=62711IsAAAAJ:4TOpqqG69KYC",
+    "title": "Individual-Driven Spiking-Mixer Deep Learning Model for IRS-Assisted mmWave Systems Beam Training",
+    "venue": "2023 IEEE 12th Global Conference on Consumer Electronics (GCCE), 296-297",
+    "year": 2023,
+    "id": "4TOpqqG69KYC",
+    "selected": false,
+    "sources": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&cstart=20&pagesize=80&citation_for_view=62711IsAAAAJ:4TOpqqG69KYC"
+    ],
+    "type": "conference",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&cstart=20&pagesize=80&citation_for_view=62711IsAAAAJ:4TOpqqG69KYC"
+  },
+  {
+    "authors": "TT Thu, K Kato, D Zhao, H Nishikawa, I Taniguchi, T Onoye",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&cstart=20&pagesize=80&citation_for_view=62711IsAAAAJ:qxL8FJ1GzNcC",
+    "title": "Operation Scheduling for Multiple HVAC Systems under Power Constraints",
+    "venue": "IEEE PES Asia-Pacific Power and Energy Engineering Conference (APPEEC), 2023",
+    "year": 2023,
+    "id": "qxL8FJ1GzNcC",
+    "selected": false,
+    "sources": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&cstart=20&pagesize=80&citation_for_view=62711IsAAAAJ:qxL8FJ1GzNcC"
+    ],
+    "type": "conference",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&cstart=20&pagesize=80&citation_for_view=62711IsAAAAJ:qxL8FJ1GzNcC"
+  },
+  {
+    "authors": "Naoya Kaneko, Kazuki Okazawa, Dafang Zhao, Hiroki Nishikawa, Ittetsu Taniguchi, Takao Onoye",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&citation_for_view=62711IsAAAAJ:0EnyYjriUFMC",
+    "title": "RNN-based non-intrusive thermal load disaggregation and forecasting for HVAC systems",
+    "venue": "ACM BuildSys 2023",
+    "year": 2023,
+    "id": "0EnyYjriUFMC",
+    "selected": false,
+    "sources": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&citation_for_view=62711IsAAAAJ:0EnyYjriUFMC",
+      "https://www-ise2.ist.osaka-u.ac.jp/publication/"
+    ],
+    "url": "https://doi.org/10.1145/3600100.3626266",
+    "type": "conference"
+  },
+  {
+    "authors": "Z Wang, G Zhu, H Jia, KT Suzuki, D Zhao, N Ono, MD Altaf-Ul-Amin, et al.",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&cstart=20&pagesize=80&citation_for_view=62711IsAAAAJ:3fE2CSJIrl8C",
+    "title": "Utilizing Contrastive Predictive Coding for the Detection of Epilepsy in EEG Data",
+    "venue": "2023 IEEE 12th Global Conference on Consumer Electronics (GCCE), 346-347",
+    "year": 2023,
+    "id": "3fE2CSJIrl8C",
+    "selected": false,
+    "sources": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&cstart=20&pagesize=80&citation_for_view=62711IsAAAAJ:3fE2CSJIrl8C"
+    ],
+    "type": "conference",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&cstart=20&pagesize=80&citation_for_view=62711IsAAAAJ:3fE2CSJIrl8C"
+  },
+  {
+    "authors": "D Zhao, I Taniguchi, T Onoye",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&cstart=20&pagesize=80&citation_for_view=62711IsAAAAJ:2osOgNQ5qMEC",
+    "title": "A Low-cost Privacy Concerning Occupancy Estimation System for HVAC Control",
+    "venue": "International Conference on Electronics, Information, and Communication (ICEIC), 2022",
+    "year": 2022,
+    "id": "2osOgNQ5qMEC",
+    "selected": false,
+    "sources": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&cstart=20&pagesize=80&citation_for_view=62711IsAAAAJ:2osOgNQ5qMEC"
+    ],
+    "type": "conference",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&cstart=20&pagesize=80&citation_for_view=62711IsAAAAJ:2osOgNQ5qMEC"
+  },
+  {
+    "authors": "D Zhao, D Watari, Y Ozawa, I Taniguchi, T Suzuki, Y Shimoda, T Onoye",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&citation_for_view=62711IsAAAAJ:qjMakFHDy7sC",
+    "title": "A thermal comfort and peak power demand aware VRF heating/cooling management framework: Simulation and on-site experiment",
+    "venue": "Journal of Information Processing 30, 476-485",
+    "year": 2022,
+    "id": "qjMakFHDy7sC",
+    "selected": true,
+    "sources": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&citation_for_view=62711IsAAAAJ:qjMakFHDy7sC"
+    ],
+    "type": "journal",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&citation_for_view=62711IsAAAAJ:qjMakFHDy7sC"
+  },
+  {
+    "authors": "N Kaneko, K Iwabuchi, K Kato, D Watari, D Zhao, I Taniguchi, et al.",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&citation_for_view=62711IsAAAAJ:roLk4NBRz8UC",
+    "title": "An evaluation of electricity demand forecasting models for smart energy management systems",
+    "venue": "2022 19th International SoC Design Conference (ISOCC), 195-196",
+    "year": 2022,
+    "id": "roLk4NBRz8UC",
+    "selected": false,
+    "sources": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&citation_for_view=62711IsAAAAJ:roLk4NBRz8UC"
+    ],
+    "type": "conference",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&citation_for_view=62711IsAAAAJ:roLk4NBRz8UC"
+  },
+  {
+    "authors": "K Kato, D Watari, D Zhao, H Nishikawa, I Taniguchi, T Onoye",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&citation_for_view=62711IsAAAAJ:_FxGoFyzp5QC",
+    "title": "Scheduling for multiple HVAC systems with electrical power allocation",
+    "venue": "2022 IEEE 11th Global Conference on Consumer Electronics (GCCE), 226-227",
+    "year": 2022,
+    "id": "_FxGoFyzp5QC",
+    "selected": false,
+    "sources": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&citation_for_view=62711IsAAAAJ:_FxGoFyzp5QC"
+    ],
+    "type": "conference",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&citation_for_view=62711IsAAAAJ:_FxGoFyzp5QC"
+  },
+  {
+    "authors": "D Zhao, I Taniguchi, F Catthoor, T Onoye",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&citation_for_view=62711IsAAAAJ:aqlVkmm33-oC",
+    "title": "Transient Response and Non-Linear Capacity Variation Aware Unified Equivalent Circuit Battery Model",
+    "venue": "8th World Conference on Photovoltaic Energy Conversion (WCPEC-8), 2022",
+    "year": 2022,
+    "id": "aqlVkmm33-oC",
+    "selected": false,
+    "sources": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&citation_for_view=62711IsAAAAJ:aqlVkmm33-oC"
+    ],
+    "type": "conference",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&citation_for_view=62711IsAAAAJ:aqlVkmm33-oC"
+  },
+  {
+    "authors": "Y Ozawa, D Watari, Y Shimoda, D Zhao, I Taniguchi, T Suzuki, T Onoye, et al.",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&cstart=20&pagesize=80&citation_for_view=62711IsAAAAJ:L8Ckcad2t8MC",
+    "title": "Online management framework for building HVAC systems considering peak shaving and thermal comfort",
+    "venue": "Workshop on Modeling and Simulation of Cyber-Physical Energy Systems (MSCPES), 2021",
+    "year": 2021,
+    "id": "L8Ckcad2t8MC",
+    "selected": false,
+    "sources": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&cstart=20&pagesize=80&citation_for_view=62711IsAAAAJ:L8Ckcad2t8MC"
+    ],
+    "type": "conference",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&cstart=20&pagesize=80&citation_for_view=62711IsAAAAJ:L8Ckcad2t8MC"
+  },
+  {
+    "authors": "D Zhao, D Watari, Y Ozawa, I Taniguchi, T Suzuki, S Shiochi, Y Shimoda, et al.",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&citation_for_view=62711IsAAAAJ:9yKSN-GCB0IC",
+    "title": "Online management framework for building HVAC systems considering peak shaving and thermal comfort: An experimental study",
+    "venue": "Workshop on Modeling and Simulation of Cyber-Physical Energy Systems (MSCPES), 2021",
+    "year": 2021,
+    "id": "9yKSN-GCB0IC",
+    "selected": false,
+    "sources": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&citation_for_view=62711IsAAAAJ:9yKSN-GCB0IC"
+    ],
+    "type": "conference",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&citation_for_view=62711IsAAAAJ:9yKSN-GCB0IC"
+  },
+  {
+    "authors": "D Zhao, F Ooshita, M Inoue",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&cstart=20&pagesize=80&citation_for_view=62711IsAAAAJ:d1gkVwhDpl0C",
+    "title": "A Rapid Feasibility Checking for Reconfiguration of Mismatched PV Arrays",
+    "venue": "2019 IEEE 46th Photovoltaic Specialists Conference (PVSC), 3144-3149",
+    "year": 2019,
+    "id": "d1gkVwhDpl0C",
+    "selected": false,
+    "sources": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&cstart=20&pagesize=80&citation_for_view=62711IsAAAAJ:d1gkVwhDpl0C"
+    ],
+    "type": "conference",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&cstart=20&pagesize=80&citation_for_view=62711IsAAAAJ:d1gkVwhDpl0C"
+  }
+]
