@@ -73,6 +73,20 @@
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&cstart=20&pagesize=80&citation_for_view=62711IsAAAAJ:maZDTaKrznsC"
   },
   {
+  "authors": "Markos A Kousounadis-Knousen, Pavlos S Georgilakis, Ittetsu Taniguchi, Dafang Zhao, Shuhei Mitsunaga, Francky Catthoor",
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=62711IsAAAAJ&sortby=pubdate&citation_for_view=62711IsAAAAJ:O3NaXMp0MMsC",
+  "title": "Tri-layer Energy Management of Smart PV Systems for Improved Computational Efficiency",
+  "venue": "IEEE Transactions on Sustainable Energy",
+  "year": 2026,
+  "id": "O3NaXMp0MMsC",
+  "selected": true,
+  "sources": [
+    "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=62711IsAAAAJ&sortby=pubdate&citation_for_view=62711IsAAAAJ:O3NaXMp0MMsC"
+  ],
+  "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=62711IsAAAAJ&sortby=pubdate&citation_for_view=62711IsAAAAJ:O3NaXMp0MMsC",
+  "type": "journal"
+  },
+  {
     "authors": "Ren Sasaki, Dafang Zhao, Yang Deng, Hiroki Nishikawa, Ittetsu Taniguchi, Takao Onoye",
     "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=62711IsAAAAJ&cstart=20&pagesize=80&citation_for_view=62711IsAAAAJ:hMod-77fHWUC",
     "title": "Scalable HVAC Flexibility Aggregation with DRL and Linear Programming",
